@@ -19,7 +19,7 @@ reg  [5:0] a,b,c;
 parameter t0=0,t1=1,t2=2;	
 reg[7:0]get_data[31:0];
 reg[7:0]get_data2[31:0];
-reg[7:0]new_data[31:0];
+
 reg[7:0]regdata;
 reg[2:0] c_state,n_state;
 parameter a0=0,//
